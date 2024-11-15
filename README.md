@@ -1,3 +1,5 @@
+This repository has been forked to be able to be installed on my HACS instance. I am not actively maintaining it or supporting it at this time, but it does still seem to work?
+
 # ⚠️ Repository archived! ⚠️
 Unfortunately, I no longer have the time to maintain this repository. I underestimated how much work it would be. Additionally, my focus recently has shifted away from HA (and programming in general) towards other things. I sincerely hope someone else can take over and build a solid, reliable integration from what's already here.
 
